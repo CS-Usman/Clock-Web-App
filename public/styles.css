@@ -1,13 +1,9 @@
-/* background-color: #191919;
-font-family: "Agency FB", arial;
-color: #00ff97; */
-
 body{
     margin: 0;
     font-family:"Agency FB", arial ;
     color: #00ff97;
     background-color: #191919;
-    font-size: 2.5rem;
+    font-size: 2.7rem;
 }
 .flexContainer{
     height: 100vh;
@@ -20,17 +16,14 @@ body{
     padding: 1.1rem;
 }
 .Time{
-    font-size: 7rem;
+    font-size: 8rem;
     font-weight: bold;
 }
-button{
-    background-color: #191919;
-    font-size: 2rem;
-    font-family:"Agency FB", arial ;
-    border: none;
-    margin: 1.5rem;
-}
 
-button:hover{
+.name{
+    font-size: 1.7rem;
+    color: black;
+}
+.name:hover{
     color: #00ff97;
 }
