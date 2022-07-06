@@ -3,7 +3,7 @@ body{
     font-family:"Agency FB", arial ;
     color: #00ff97;
     background-color: #191919;
-    font-size: 6vh;
+    font-size: 5vh;
 }
 .flexContainer{
     height: 100vh;
@@ -16,13 +16,13 @@ body{
     padding: 1.1rem;
 }
 .Time{
-    font-size: 20vh;
+    font-size: 17vh;
     font-weight: bold;
     text-align: center;
 }
 
 .name{
-    font-size: 4vh;
+    font-size: 3vh;
     color: black;
 }
 .name:hover{
